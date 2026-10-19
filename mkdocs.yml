@@ -1,0 +1,8 @@
+site_name: 'iac-argocd'
+site_description: 'Reusable Terraform module: Argo CD as a Helm release'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
