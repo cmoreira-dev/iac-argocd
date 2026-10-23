@@ -4,7 +4,6 @@ metadata:
   name: iac-argocd
   description: Reusable Terraform module for Argo CD as a Helm release
   annotations:
-    github.com/project-slug: cmoreira-dev/iac-argocd
     backstage.io/techdocs-ref: dir:.
 spec:
   type: library
